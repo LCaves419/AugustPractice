@@ -6,3 +6,5 @@ GigHub is a simple social network for artists to post gigs and have followers, u
 The StringCalculatoKata shows simple NUnit testing on calculating intergers derived from a string input. 
 
 WebApplication9 is a simple WebApi application utilizing JQuery with Ajax calls on all the CRUD actions, GET, POST, PUT, DELETE. Also intergrated Entity Framework code first migrations to demonstrate a database in this instance. 
+
+Grades is a console application using some basic C# knowledge. 
